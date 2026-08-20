@@ -24,6 +24,6 @@ ${\textsf{\color{#ff1a29}read}}$ ${\textsf{\color{#e00029}carrd}}$ ${\textsf{\co
 </br>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k22wjgvx4e6w42c6ee527h72r4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=690000&bar_color_cover=false&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k22wjgvx4e6w42c6ee527h72r4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=690000&bar_color_cover=false">
   </a>
 </p>
