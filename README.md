@@ -17,13 +17,13 @@ ${\textsf{\color{#ff1a29}normally}}$ ${\textsf{\color{#e00029}at}}$ ${\textsf{\c
 ${\textsf{\color{#ff1a29}read}}$ ${\textsf{\color{#e00029}carrd}}$ ${\textsf{\color{#c80027}for}}$ ${\textsf{\color{#b50027}more}}$ ${\textsf{\color{#a10028}info!!}}$ ${\textsf{\color{#8e002a}aswell as}}$ ${\textsf{\color{#72001c}enpronouns}}$
 </br>
 </br>
-<img src="https://64.media.tumblr.com/657e89d2f14d88e74bd52f764a7eb7e0/c208d4e888bc568c-24/s100x200/f4577a8e3ea7b4492955b88440b78d287a30ef6c.pnj">
-<img src="https://64.media.tumblr.com/895b78e13d090bb3faaf52929167f878/f73306e50a2065a3-03/s100x200/40a98af909517318dfed4700c556da223a23f106.pnj">
-<img src="https://64.media.tumblr.com/18b6195fa0dbdc614ffadf1e2184934b/304aa4fb62299385-84/s100x200/0e1cbf2a6f8d30e19ef47505515d5b1bebc9fd11.pnj">
-</br>
-</br>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k22wjgvx4e6w42c6ee527h72r4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=690000&bar_color_cover=false">
   </a>
 </p>
+<p align="center">
+<img src="https://64.media.tumblr.com/657e89d2f14d88e74bd52f764a7eb7e0/c208d4e888bc568c-24/s100x200/f4577a8e3ea7b4492955b88440b78d287a30ef6c.pnj">
+<img src="https://64.media.tumblr.com/895b78e13d090bb3faaf52929167f878/f73306e50a2065a3-03/s100x200/40a98af909517318dfed4700c556da223a23f106.pnj">
+<img src="https://64.media.tumblr.com/18b6195fa0dbdc614ffadf1e2184934b/304aa4fb62299385-84/s100x200/0e1cbf2a6f8d30e19ef47505515d5b1bebc9fd11.pnj">
+
